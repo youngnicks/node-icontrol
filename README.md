@@ -5,7 +5,7 @@
 Convience methods for making calls to the BIG-IP iControl REST API,
 mimicking the command style of TMSH.
 
-Requires BIG-IP >= 11.4.0 and an enabled ircd service:
+Requires BIG-IP >= 12.0.0 and an enabled ircd service:
 
 ```
 (tmos) # modify sys service ircd add
